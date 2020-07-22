@@ -1,0 +1,29 @@
+*{
+	font-family: montserrat;
+}
+nav img{
+	margin-top: 20px;
+}
+.news{
+	padding: 80px;
+		margin-left: 130px;
+
+}
+.events a{
+	margin-left: 10px;
+}
+.events a:hover{
+	background-color: yellow;
+}
+.copyright{
+	background-color: black;
+	color: white;
+	padding: 30px;
+}
+.copyright ul{
+	list-style: none;
+}
+.copyright li{
+	display: inline;
+	margin-left: 150px;
+}
