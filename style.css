@@ -27,3 +27,17 @@ nav img{
 	display: inline;
 	margin-left: 150px;
 }
+.btn{
+background-color: red;
+height: 45px;
+width : 150px;
+color: white;
+border : none;
+outline : none;
+}
+
+.sub{
+background-color: black;
+}
+
+.sub inpput
